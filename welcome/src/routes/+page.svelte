@@ -28,11 +28,11 @@
 				Launch Documentation
 			</a>
 		</div>
-		<div class="space-y-2">
-			<p>Try editing the following:</p>
-			<p><code class="code">/src/routes/+layout.svelte</code></p>
-			<p><code class="code">/src/routes/+page.svelte</code></p>
-		</div>
+		<ul>
+			<li><code class="code">/src/routes/+layout.svelte</code> - the root layout in your project.</li>
+			<li><code class="code">/src/routes/+page.svelte</code> - the homepage contents.</li>
+			<li><code class="code">/src/app.postcss</code> - your global stylesheet.</li>
+		</ul>
 	</div>
 </div>
 
